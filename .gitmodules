@@ -1,3 +1,6 @@
 [submodule "game2"]
 	path = game2
 	url = https://github.com/chixu/gittestgame2
+[submodule "gittestgames"]
+	path = gittestgames
+	url = https://github.com/chixu/gittestgames
